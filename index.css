@@ -1,0 +1,12 @@
+body{
+    background-color:#1672af;
+    color: white;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #1e1e54;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    cursor: pointer;
+  }
